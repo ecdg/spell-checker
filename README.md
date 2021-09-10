@@ -1,6 +1,7 @@
 # Spell-checker
 
 \- Implemented a [dictionary's](https://github.com/emilyd17/spell-checker/blob/master/speller/dictionary.c) functionality for a spell checker program 
+
 \- Built my own hash table from scratch in C
 
 
